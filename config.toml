@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "wefew23"
+baseURL = "https:\/\/34ewr.wer"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
